@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🗣 I'm Clivens Petit, CEO & Co-Founder of [Softrizon](https://www.softrizon.com/ "www.softrizon.com")
+- 🗣 I'm Clivens Petit, CEO & Co-Founder of [Softrizon](https://www.softrizon.com/?utm_source=github "www.softrizon.com")
 - 🔭 I’m currently working on a Social Media Application
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on Java, Kotlin, and Android projects
